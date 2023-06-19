@@ -6,7 +6,7 @@ import DataProvider from './components/Context/DataContext';
 function App() {
   return (
     <DataProvider> 
-      <BrowserRouter>
+      <BrowserRouter> 
           <Routes>
             <Route path='/' element={<Home />} />
             <Route path='/cart' element={<CartContent />} />

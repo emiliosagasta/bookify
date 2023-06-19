@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    margin:50px;
+    margin: 50px;
     text-align: center;
 }
 
@@ -24,3 +24,11 @@
 .card button:hover {
     opacity:0,7;
 }
+
+.img-product-card {
+    width: 100%; /* Ajusta el ancho de la imagen al 100% del contenedor */
+    height: auto; /* Permite que la altura se ajuste proporcionalmente al ancho */
+    object-fit: cover; /* Ajusta la imagen para que cubra completamente el contenedor */
+  }
+
+  

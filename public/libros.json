@@ -6,7 +6,7 @@
     "sku": "7RRTTN2WRXANRSIG",
     "price": 21999,
     "discount": 0,
-    "img": "https://www.pinterest.es/pin/797066834041559736/"
+    "img": "https://images.dog.ceo/breeds/terrier-cairn/n02096177_1171.jpg"
   },
   {
     "id": 2,
@@ -14,7 +14,8 @@
     "Editorial": "Motorola",
     "sku": "6EWKNP0EMEWND687",
     "price": 33999,
-    "discount": 0
+    "discount": 0,
+    "img": "https://images.dog.ceo/breeds/dane-great/n02109047_23483.jpg"
   },
   {
     "id": 3,
@@ -22,7 +23,8 @@
     "Editorial": "Editorial Sudamericana",
     "sku": "APZCT6D2JCPX0A8V",
     "price": 19999,
-    "discount": 0
+    "discount": 0,
+    "img": "https://images.dog.ceo/breeds/coonhound/n02089078_1758.jpg"
   },
   {
     "id": 4,
@@ -30,7 +32,8 @@
     "Editorial": "Editorial Sudamericana",
     "sku": "CNP9WW07E2ACQ15C",
     "price": 25999,
-    "discount": 18
+    "discount": 18,
+    "img": "https://images.dog.ceo/breeds/spaniel-blenheim/n02086646_20.jpg"
   },
   {
     "id": 5,
@@ -38,7 +41,8 @@
     "Editorial": "Motorola",
     "sku": "7XQSKXS9DVNN9UY9",
     "price": 49999,
-    "discount": 0
+    "discount": 0,
+    "img": "https://images.dog.ceo/breeds/havanese/00100trPORTRAIT_00100_BURST20191222103956878_COVER.jpg"
   },
   {
     "id": 6,
@@ -46,7 +50,8 @@
     "Editorial": "Motorola",
     "sku": "2QMRCZUPA7GQWO90",
     "price": 21999,
-    "discount": 0
+    "discount": 18,
+    "img": "https://images.dog.ceo/breeds/papillon/n02086910_1626.jpg"
   },
   {
     "id": 7,
@@ -54,7 +59,8 @@
     "Editorial": "Samsung",
     "sku": "JQ585S9CHIIW9IYF",
     "price": 31999,
-    "discount": 0
+    "discount": 3,
+    "img": "https://images.dog.ceo/breeds/terrier-russell/iguet4.jpg"
   },
   {
     "id": 8,
@@ -62,7 +68,8 @@
     "Editorial": "Motorola",
     "sku": "5BFAY679NH9TTWRJ",
     "price": 21999,
-    "discount": 0
+    "discount": 1,
+    "img": "https://images.dog.ceo/breeds/otterhound/n02091635_1058.jpg"
   },
   {
     "id": 9,
@@ -70,7 +77,8 @@
     "Editorial": "Samsung",
     "sku": "2MB4SEKNGS3R4533",
     "price": 74999,
-    "discount": 0
+    "discount": 2,
+    "img": "https://images.dog.ceo/breeds/coonhound/n02089078_1758.jpg"
   },
   {
     "id": 10,
@@ -78,7 +86,8 @@
     "Editorial": "Samsung",
     "sku": "JTLO9LQ80NWEO93W",
     "price": 60999,
-    "discount": 0
+    "discount": 5,
+    "img": "https://images.dog.ceo/breeds/malamute/n02110063_11892.jpg"
   },
   {
     "id": 11,
@@ -86,7 +95,8 @@
     "Editorial": "Samsung",
     "sku": "RYQKQ2BKAFJTYQCG",
     "price": 40999,
-    "discount": 0
+    "discount": 0,
+    "img": "https://images.dog.ceo/breeds/cattledog-australian/IMG_7506.jpg"
   },
   {
     "id": 12,
@@ -94,7 +104,8 @@
     "Editorial": "Samsung",
     "sku": "0GQZRA0YPPYROR9P",
     "price": 15999,
-    "discount": 0
+    "discount": 0,
+    "img": "https://images.dog.ceo/breeds/kelpie/n02105412_1795.jpg"
   },
   {
     "id": 13,
@@ -102,7 +113,8 @@
     "Editorial": "Samsung",
     "sku": "VKLKEHU9P4QUT700",
     "price": 136999,
-    "discount": 0
+    "discount": 0,
+    "img": "https://images.dog.ceo/breeds/coonhound/n02089078_1758.jpg"
   },
   {
     "id": 14,
@@ -110,7 +122,8 @@
     "Editorial": "TCL",
     "sku": "NREJYUWGBGI4GIMB",
     "price": 33999,
-    "discount": 10
+    "discount": 10,
+    "img": "https://images.dog.ceo/breeds/elkhound-norwegian/n02091467_780.jpg"
   },
   {
     "id": 15,
@@ -118,7 +131,8 @@
     "Editorial": "Samsung",
     "sku": "ZI4GRO2XVDK370YH",
     "price": 28999,
-    "discount": 0
+    "discount": 0,
+    "img": "https://images.dog.ceo/breeds/retriever-golden/n02099601_2359.jpg"
   },
   {
     "id": 16,
@@ -126,7 +140,8 @@
     "Editorial": "Motorola",
     "sku": "1QG92REXUE4KGJY6",
     "price": 89999,
-    "discount": 0
+    "discount": 0,
+    "img": "https://images.dog.ceo/breeds/spaniel-welsh/n02102177_3438.jpg"
   },
   {
     "id": 17,
@@ -134,7 +149,8 @@
     "Editorial": "Motorola",
     "sku": "7FPGOEHRE0RVJ3HK",
     "price": 69999,
-    "discount": 0
+    "discount": 0,
+    "img": "https://images.dog.ceo/breeds/coonhound/n02089078_1758.jpg"
   },
   {
     "id": 18,
@@ -142,7 +158,8 @@
     "Editorial": "TCL",
     "sku": "1NQTNH1PJKYCFDZF",
     "price": 27999,
-    "discount": 12
+    "discount": 12,
+    "img": "https://images.dog.ceo/breeds/groenendael/n02105056_4846.jpg"
   },
   {
     "id": 19,
@@ -150,7 +167,8 @@
     "Editorial": "Samsung",
     "sku": "9R49S3DHCYK8QVI7",
     "price": 21499,
-    "discount": 0
+    "discount": 0,
+    "img": "https://images.dog.ceo/breeds/spaniel-sussex/n02102480_366.jpg"
   },
   {
     "id": 20,
@@ -158,7 +176,8 @@
     "Editorial": "Samsung",
     "sku": "7G9B8F3FRJPZZ5CE",
     "price": 21499,
-    "discount": 0
+    "discount": 0,
+    "img": "https://images.dog.ceo/breeds/bluetick/n02088632_2055.jpg"
   },
   {
     "id": 21,
@@ -166,6 +185,7 @@
     "Editorial": "Samsung",
     "sku": "MDRL1V4CBAHB7LBK",
     "price": 15999,
-    "discount": 0
+    "discount": 0,
+    "img": "https://images.dog.ceo/breeds/coonhound/n02089078_1758.jpg"
   }
 ]

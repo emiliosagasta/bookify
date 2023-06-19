@@ -1,0 +1,49 @@
+Si hago un f12 (consola) y aparece un warning ("cada hijo de la de lista deberia tener
+una key unica")
+
+ES NECESARIO, que cada objeto debe tener una key=key={product.id} --> en Products.jsx
+
+
+**************************
+Para hacer el carrito
+
+va a arrancar siendo un hook con un array vacio, desp el contenido del carrito
+van a ser los productos que el usuario va ir metiendo.
+
+    const [cart, setCart] = useState([]);
+
+CartElements =>son los elementos que el usuario va ir metiendo
+CartTotal => son los elementos finales para pagar
+
+
+Yo necesito que el usuario a la hora de selecionar "Buy" identifique el producto.
+Es por eso que le tengo que pasar un parametro. Un arrow function dentro de onclick al lado
+de buyProducts. Le paso como parametro la misma variable que esta en el map
+  return data.map((product) => {
+
+....
+...
+        <button onClick={ () => buyProducts(product)}>Buy</button>
+
+y tambien se lo paso a buyProduts
+
+
+
+****************
+El spread operator es cuando tenes (...)
+
+El operador de propagación (...) permite copiar los valores de un objeto o un array en otro objeto o array. En el contexto de React, puedes utilizar este operador para pasar props de forma más concisa o para combinar varios arrays o objetos.
+
+
+    setCart([...cart])
+
+Lo que estoy haciendo es le estoy pasando mi carrito(cart) hasta el momento ( si esta vacio o si tiene algun producto)
+
+    setCart([...cart, product]);
+
+le estoy setiendo dentro del carrito el nuevo producto y con todo su contenido (...)
+
+
+1:23
+
+

@@ -1,4 +1,4 @@
-import Banner from "../Banner/Banner.jsx";
+import Banner from "../Banner/Banner";
 import Navbar from "../Navbar/Navbar";
 import Products from "../Products/Products";
 
